@@ -1,4 +1,4 @@
-module guard
+module github.com/lostz/guard
 
 go 1.17
 
